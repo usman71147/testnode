@@ -1,0 +1,22 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Usman saeed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "nodemon": "^2.0.14",
+    "async": "^0.9.0",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "http": "^0.0.0",
+    "morgan": "~1.0.0",
+    "request": "^2.55.0",
+    "rsvp": "~4.8.2"
+  }
+}
